@@ -35,3 +35,5 @@
 {% embed url="https://infosecwriteups.com/p1-vulnerability-in-60-seconds-85ef93d42b99" %}
 
 {% embed url="https://medium.com/@amolverma.246/how-i-found-a-bug-under-3-mins-that-could-risk-the-reputation-of-an-entire-organisation-4b1b9f0762e9" %}
+
+{% embed url="https://medium.com/@bobby.S/how-to-find-origin-ip-1f684f459942" %}
