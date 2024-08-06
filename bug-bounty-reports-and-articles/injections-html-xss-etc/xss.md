@@ -19,3 +19,5 @@
 {% embed url="https://medium.com/@pranshux0x/super-blind-sql-injection-20000-bounty-thousands-of-targets-still-vulnerable-f9b013765448" %}
 
 {% embed url="https://hacktivator.medium.com/how-recon-helped-me-to-get-a-stored-xss-26c7be17ccfa" %}
+
+{% embed url="https://portswigger.net/research/xss-without-parentheses-and-semi-colons" %}

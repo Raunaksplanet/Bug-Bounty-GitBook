@@ -48,6 +48,8 @@
   * [⚙️ Bypassing](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/bypassing.md)
 * [8️⃣ Web Socket](bug-bounty-reports-and-articles/web-socket.md)
 * [9️⃣ Miscellaneous Reports](bug-bounty-reports-and-articles/miscellaneous-reports.md)
+* [🔢 Cloud](bug-bounty-reports-and-articles/cloud/README.md)
+  * [🌩️ AWS S3](bug-bounty-reports-and-articles/cloud/aws-s3.md)
 
 ## Bug Bounty Platforms
 
