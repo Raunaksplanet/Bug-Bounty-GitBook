@@ -21,3 +21,5 @@
 {% embed url="https://hacktivator.medium.com/how-recon-helped-me-to-get-a-stored-xss-26c7be17ccfa" %}
 
 {% embed url="https://portswigger.net/research/xss-without-parentheses-and-semi-colons" %}
+
+{% embed url="https://archive.org/details/the-ultimate-xss-training-course/[TutsNode.com]+-+The+Ultimate+XSS+Training+Course/lesson1.mp4" %}
