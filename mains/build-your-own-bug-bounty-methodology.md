@@ -17,7 +17,7 @@ While reading All these methodologies I made notion page for each Article/Video 
 | Platform                                        | Number of Methodologies |
 | ----------------------------------------------- | ----------------------- |
 | <ol><li>Medium/Infosec (Article/Blog)</li></ol> | 15                      |
-| <ol start="2"><li>YouTube (Videos)</li></ol>    | 38                      |
+| <ol start="2"><li>YouTube (Videos)</li></ol>    | 39                      |
 | <ol start="3"><li>Github Repository</li></ol>   | 4                       |
 
 ## Articles/Writeups
@@ -71,6 +71,8 @@ While reading All these methodologies I made notion page for each Article/Video 
 {% embed url="https://www.youtube.com/watch?v=KqpqF-v6rnE" %}
 
 ***
+
+{% embed url="https://www.youtube.com/watch?v=SsvN3JQJB14" %}
 
 {% embed url="https://www.youtube.com/watch?v=45pUF7KSdSo" %}
 
