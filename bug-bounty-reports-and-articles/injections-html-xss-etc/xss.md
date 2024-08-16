@@ -22,4 +22,6 @@
 
 {% embed url="https://portswigger.net/research/xss-without-parentheses-and-semi-colons" %}
 
+{% embed url="https://freedium.cfd/https://medium.com/@Mu1berry/an-interesting-case-of-xss-caused-by-file-upload-86bdfb09408f" %}
+
 {% embed url="https://archive.org/details/the-ultimate-xss-training-course/[TutsNode.com]+-+The+Ultimate+XSS+Training+Course/lesson1.mp4" %}
