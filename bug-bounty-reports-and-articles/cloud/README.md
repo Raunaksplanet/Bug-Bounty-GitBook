@@ -13,9 +13,7 @@ layout:
     visible: true
 ---
 
-# 🔢 Cloud
-
-
+# 0️ Cloud
 
 {% content-ref url="aws-s3.md" %}
 [aws-s3.md](aws-s3.md)

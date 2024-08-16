@@ -49,8 +49,9 @@
   * [⚙️ Misconfiguration](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/misconfiguration.md)
 * [8️⃣ Web Socket](bug-bounty-reports-and-articles/web-socket.md)
 * [9️⃣ Miscellaneous Reports](bug-bounty-reports-and-articles/miscellaneous-reports.md)
-* [🔢 Cloud](bug-bounty-reports-and-articles/cloud/README.md)
+* [0️ Cloud](bug-bounty-reports-and-articles/cloud/README.md)
   * [🌩️ AWS S3](bug-bounty-reports-and-articles/cloud/aws-s3.md)
+* [1️ Weak Password Policy](bug-bounty-reports-and-articles/weak-password-policy.md)
 
 ## Bug Bounty Platforms
 
