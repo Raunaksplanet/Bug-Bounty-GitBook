@@ -17,3 +17,5 @@
 {% embed url="https://bytebloggerbase.com/main/6679ad1b0feb2bdcde239992" %}
 
 {% embed url="https://bytebloggerbase.com/main/66a685835c37aa01dff248ff" %}
+
+{% embed url="https://medium.com/@0xSnowmn/0-click-account-takeover-via-reset-password-weird-behavior-026846e5f850" %}
