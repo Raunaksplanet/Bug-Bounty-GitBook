@@ -24,4 +24,6 @@
 
 {% embed url="https://freedium.cfd/https://medium.com/@Mu1berry/an-interesting-case-of-xss-caused-by-file-upload-86bdfb09408f" %}
 
+{% embed url="https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1" %}
+
 {% embed url="https://archive.org/details/the-ultimate-xss-training-course/[TutsNode.com]+-+The+Ultimate+XSS+Training+Course/lesson1.mp4" %}
