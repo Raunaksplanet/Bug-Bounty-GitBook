@@ -52,7 +52,7 @@
 * [9️⃣ Miscellaneous Reports](bug-bounty-reports-and-articles/miscellaneous-reports.md)
 * [0️ Cloud](bug-bounty-reports-and-articles/cloud/README.md)
   * [🌩️ AWS S3](bug-bounty-reports-and-articles/cloud/aws-s3.md)
-* [1️ Weak Password Policy](bug-bounty-reports-and-articles/weak-password-policy.md)
+* [1️ Low Hanging Fruits](bug-bounty-reports-and-articles/low-hanging-fruits.md)
 
 ## Bug Bounty Platforms
 
