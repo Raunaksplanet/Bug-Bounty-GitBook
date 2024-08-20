@@ -47,6 +47,7 @@
   * [⚙️ File Upload Functionality](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/file-upload-functionality.md)
   * [⚙️ Password Reset Functionality](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/password-reset-functionality.md)
   * [⚙️ 2FA Functionality ](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/2fa-functionality.md)
+  * [⚙️ Oauth Functionality](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/oauth-functionality.md)
   * [⚙️ Bypassing](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/bypassing.md)
   * [⚙️ Misconfiguration](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/misconfiguration.md)
 * [8️⃣ Web Socket](bug-bounty-reports-and-articles/web-socket.md)
