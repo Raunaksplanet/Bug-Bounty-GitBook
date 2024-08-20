@@ -25,6 +25,7 @@
   * [💿 Learn WSL](mains/learn-the-basics/learn-wsl.md)
 * [🧑‍💻 Fun Programming Codes](mains/fun-programming-codes.md)
 * [🔮 Build your own Bug Bounty Methodology](mains/build-your-own-bug-bounty-methodology.md)
+* [🎴 Bug Bounty Checklist](mains/bug-bounty-checklist.md)
 
 ## Bug Bounty Reports & Articles&#x20;
 
