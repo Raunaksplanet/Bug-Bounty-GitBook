@@ -15,3 +15,5 @@
 {% embed url="https://www.hackbook.io/" %}
 
 {% embed url="https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide" %}
+
+{% embed url="https://kathan19.gitbook.io/howtohunt" %}
