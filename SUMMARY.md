@@ -56,6 +56,7 @@
   * [🌩️ AWS S3](bug-bounty-reports-and-articles/cloud/aws-s3.md)
 * [1️ Low Hanging Fruits](bug-bounty-reports-and-articles/low-hanging-fruits.md)
 * [2️ Cache Poising](bug-bounty-reports-and-articles/cache-poising.md)
+* [3️ DOS/DDOS](bug-bounty-reports-and-articles/dos-ddos.md)
 
 ## Bug Bounty Platforms
 
