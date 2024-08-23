@@ -15,7 +15,7 @@ layout:
 # 🎴 Bug Bounty Checklist
 
 {% hint style="success" %}
-Build your own Boung Bouty Check List or scroll down and check mine mostly inspired by these resources only.
+Build your own Bug Bounty Check List or scroll down and check mine mostly inspired by these resources only.
 {% endhint %}
 
 {% embed url="https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist" %}
