@@ -16,7 +16,7 @@ While reading All these methodologies I made notion page for each Article/Video 
 
 | Platform                                        | Number of Methodologies |
 | ----------------------------------------------- | ----------------------- |
-| <ol><li>Medium/Infosec (Article/Blog)</li></ol> | 15                      |
+| <ol><li>Medium/Infosec (Article/Blog)</li></ol> | 18                      |
 | <ol start="2"><li>YouTube (Videos)</li></ol>    | 39                      |
 | <ol start="3"><li>Github Repository</li></ol>   | 4                       |
 
