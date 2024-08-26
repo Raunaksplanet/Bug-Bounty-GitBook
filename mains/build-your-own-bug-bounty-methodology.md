@@ -66,6 +66,14 @@ While reading All these methodologies I made notion page for each Article/Video 
 
 ***
 
+{% embed url="https://infosecwriteups.com/cool-recon-techniques-every-hacker-misses-1c5e0e294e89" %}
+
+{% embed url="https://infosecwriteups.com/cool-recon-techniques-every-hacker-misses-episode-2-8024e8338756" %}
+
+{% embed url="https://infosecwriteups.com/cool-recon-techniques-every-hacker-misses-episode-3-3812e7da3425" %}
+
+***
+
 ## YT Videos
 
 {% embed url="https://www.youtube.com/watch?v=KqpqF-v6rnE" %}
