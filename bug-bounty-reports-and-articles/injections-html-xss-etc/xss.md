@@ -26,4 +26,6 @@
 
 {% embed url="https://infosecwriteups.com/how-i-was-able-to-find-50-cross-site-scripting-xss-security-vulnerabilities-on-bugcrowd-public-ba33db2b0ab1" %}
 
+{% embed url="https://medium.com/@kshunya/xyz-of-xss-62603eb4cba" %}
+
 {% embed url="https://archive.org/details/the-ultimate-xss-training-course/[TutsNode.com]+-+The+Ultimate+XSS+Training+Course/lesson1.mp4" %}
