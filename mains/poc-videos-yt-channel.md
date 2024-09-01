@@ -76,3 +76,27 @@ description: >-
 {% embed url="https://www.youtube.com/@gotr00t0day/videos" %}
 
 {% embed url="https://www.youtube.com/@rashahacks/videos" %}
+
+{% embed url="https://www.youtube.com/@sudhanshurajbhar9635" %}
+
+{% embed url="https://www.youtube.com/@the_cyb3rb0y" %}
+
+{% embed url="https://www.youtube.com/@techiehunter08" %}
+
+{% embed url="https://www.youtube.com/@rashahacks" %}
+
+{% embed url="https://www.youtube.com/@bugbountypoc395" %}
+
+{% embed url="https://www.youtube.com/@mufazmi" %}
+
+{% embed url="https://www.youtube.com/@bugbounty101" %}
+
+{% embed url="https://www.youtube.com/@hacksys" %}
+
+{% embed url="https://www.youtube.com/@HACKERFUDDI" %}
+
+{% embed url="https://www.youtube.com/@elit3pwnerr" %}
+
+{% embed url="https://www.youtube.com/@bugsec0x01" %}
+
+{% embed url="https://www.youtube.com/@bughunteraryan" %}
