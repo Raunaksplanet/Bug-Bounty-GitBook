@@ -5,3 +5,5 @@
 {% embed url="https://www.google.com/search?q=aem+bug+medium&oq=aem+bug+&gs_lcrp=EgZjaHJvbWUqBggBECMYJzIMCAAQRRg5GIAEGKIEMgYIARAjGCcyDQgCEAAYkQIYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyCggFEAAYgAQYogTSAQgyNzMwajBqN6gCFLACAQ&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8" %}
 
 {% embed url="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610" %}
+
+{% embed url="https://www.muqsitbaig.com/blog/how-you-could-get-hacked-at-a-coffee-shop/" %}
