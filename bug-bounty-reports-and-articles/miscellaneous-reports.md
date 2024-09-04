@@ -7,3 +7,5 @@
 {% embed url="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610" %}
 
 {% embed url="https://www.muqsitbaig.com/blog/how-you-could-get-hacked-at-a-coffee-shop/" %}
+
+{% embed url="https://hackerone.com/reports/2370955" %}
