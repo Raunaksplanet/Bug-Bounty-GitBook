@@ -33,6 +33,7 @@
 * [1️⃣ Takeover's (Accounts, Sub-domains, etc)](bug-bounty-reports-and-articles/takeovers-accounts-sub-domains-etc/README.md)
   * [🚡 Sub Domain Takeover](bug-bounty-reports-and-articles/takeovers-accounts-sub-domains-etc/sub-domain-takeover.md)
   * [🚠 Account Takeover](bug-bounty-reports-and-articles/takeovers-accounts-sub-domains-etc/account-takeover.md)
+  * [🚟 dependency confusion vulnerability](bug-bounty-reports-and-articles/takeovers-accounts-sub-domains-etc/dependency-confusion-vulnerability.md)
 * [2️⃣ IDOR (Indirect Object Reference) ](bug-bounty-reports-and-articles/idor-indirect-object-reference.md)
 * [3️⃣ Leaks & Disclosure (PII, API Key, etc)](bug-bounty-reports-and-articles/leaks-and-disclosure-pii-api-key-etc.md)
 * [4️⃣ Open Redirects](bug-bounty-reports-and-articles/open-redirects.md)
