@@ -12,6 +12,8 @@ This resume will serve as a guide for creating your own, whether you have a Bach
 hehe
 {% endembed %}
 
+### Some Good Resumes
+
 {% file src="../.gitbook/assets/Example (1).pdf" %}
 First Resume 😁
 {% endfile %}
@@ -40,6 +42,20 @@ Sixth Resume 😁
 Seventh Resume 😁
 {% endfile %}
 
-{% file src="../.gitbook/assets/Example (8).pdf" %}
-Eighth Resume 😁
-{% endfile %}
+### Learn About Cyber Security Resumes
+
+{% embed url="https://www.youtube.com/watch?v=yiqgiZyAGKs" %}
+
+{% embed url="https://www.youtube.com/watch?v=rh2eDVSh994" %}
+
+{% embed url="https://www.youtube.com/watch?v=rggbv4LphiY" %}
+
+{% embed url="https://www.youtube.com/watch?v=OviHANOl8TU" %}
+
+{% embed url="https://www.youtube.com/watch?v=Xtq55KDDFMU" %}
+
+{% embed url="https://www.youtube.com/watch?v=U4_4xn8fzLw" %}
+
+{% embed url="https://www.youtube.com/watch?v=DVlBYZNmqCQ" %}
+
+{% embed url="https://www.youtube.com/watch?v=HjrTmYdfb78&t=1753s" %}
