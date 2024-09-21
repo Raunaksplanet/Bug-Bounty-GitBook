@@ -16,7 +16,7 @@ While reading All these methodologies I made notion page for each Article/Video 
 
 | Platform                                        | Number of Methodologies |
 | ----------------------------------------------- | ----------------------- |
-| <ol><li>Medium/Infosec (Article/Blog)</li></ol> | 18                      |
+| <ol><li>Medium/Infosec (Article/Blog)</li></ol> | 20                      |
 | <ol start="2"><li>YouTube (Videos)</li></ol>    | 39                      |
 | <ol start="3"><li>Github Repository</li></ol>   | 4                       |
 
@@ -71,6 +71,12 @@ While reading All these methodologies I made notion page for each Article/Video 
 {% embed url="https://infosecwriteups.com/cool-recon-techniques-every-hacker-misses-episode-2-8024e8338756" %}
 
 {% embed url="https://infosecwriteups.com/cool-recon-techniques-every-hacker-misses-episode-3-3812e7da3425" %}
+
+***
+
+{% embed url="https://infosecwriteups.com/how-i-hack-web-applications-part-1-0833c002cc9a" %}
+
+{% embed url="https://orwaatyat.medium.com/my-methodology-in-recon-and-find-bugs-my-methodology-in-hunting-using-phone-ccc9fe06dd2d" %}
 
 ***
 
