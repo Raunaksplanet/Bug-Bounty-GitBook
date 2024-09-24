@@ -4,7 +4,7 @@ description: >-
   articles, tools, and more that you need to learn about Cyber Security, Bug
   Bounty, Ethical Hacking.
 cover: .gitbook/assets/Eternal Warriors WP 04.jpg
-coverY: 17.375999999999998
+coverY: 46.336
 layout:
   cover:
     visible: true

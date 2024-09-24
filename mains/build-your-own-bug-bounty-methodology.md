@@ -34,6 +34,8 @@ While reading All these methodologies I made notion page for each Article/Video 
 
 {% embed url="https://shubhamrooter.medium.com/deep-subdomains-enumeration-methodology-da606be0c4c3" %}
 
+{% embed url="https://www.freedium.cfd/https://medium.com/@loyalonlytoday/finding-more-subdomains-1f5221e79310" %}
+
 {% embed url="https://shubhamrooter.medium.com/best-recon-methodology-shubham-rooter-dcdca8d4caa4" %}
 
 ***
