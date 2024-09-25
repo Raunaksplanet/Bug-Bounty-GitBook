@@ -9,3 +9,5 @@
 {% embed url="https://www.muqsitbaig.com/blog/how-you-could-get-hacked-at-a-coffee-shop/" %}
 
 {% embed url="https://hackerone.com/reports/2370955" %}
+
+{% embed url="https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/" %}
