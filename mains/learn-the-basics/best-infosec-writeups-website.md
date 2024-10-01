@@ -22,3 +22,4 @@
 | Codean Labs                 | [codeanlabs.com/blog](https://codeanlabs.com/blog/)                                         |
 | Twitter                     | [twitter/bugbountytips](https://x.com/search?q=%23bugbountytips+\&src=typed\_query\&f=live) |
 | Twitter 2                   | [x.com/disclosedh1](https://x.com/disclosedh1)                                              |
+| Intigriti                   | [https://blog.intigriti.com/](https://blog.intigriti.com/)                                  |
