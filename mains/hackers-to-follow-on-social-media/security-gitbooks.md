@@ -21,3 +21,5 @@
 {% embed url="https://www.thehacker.recipes/" %}
 
 {% embed url="https://workbook.securityboat.net/Pentesting/" %}
+
+{% embed url="https://talkback.sh/" %}
