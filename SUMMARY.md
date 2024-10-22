@@ -73,3 +73,4 @@
 * [1️⃣ Wordpress](exploiting-technologies/wordpress.md)
 * [2️⃣ GraphQL API](exploiting-technologies/graphql-api.md)
 * [3️⃣ IDOR Vulnerability](exploiting-technologies/idor-vulnerability.md)
+* [Learn Android Hacking](exploiting-technologies/learn-android-hacking.md)
