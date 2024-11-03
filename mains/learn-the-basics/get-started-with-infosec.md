@@ -12,7 +12,7 @@ description: >-
    * [The Cyber Mentor](https://www.youtube.com/watch?v=U1w4T03B30I\&list=LL\&index=386)
    * [freeCodeCamp.org](https://www.youtube.com/watch?v=ZtqBQ68cfJc\&list=LL\&index=404)
    * [The Cyber Mentor](https://www.youtube.com/watch?v=rZsJieGi8os\&list=LL\&index=406)
-   * [HackerSploit](https://www.youtube.com/watch?v=rZsJieGi8os\&list=LL\&index=406)
+   * [HackerSploit](https://www.youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by)
 2. **Learn Linux File System**:
    * [NeuralNine](https://www.youtube.com/watch?v=BUnb1PKKMBA)
    * [Edureka](https://www.youtube.com/watch?v=ePN5igV9ZpY\&list=LL\&index=235)
