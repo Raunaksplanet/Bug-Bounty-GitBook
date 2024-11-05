@@ -7,6 +7,7 @@
 * [🧾 Resume For Cyber Security Freshie](mains/resume-for-cyber-security-freshie.md)
 * [📗 Browser extension](mains/browser-extension.md)
 * [📀 POC Videos YT Channel](mains/poc-videos-yt-channel.md)
+* [📺 55 YouTube Channels To Learn Hacking](mains/55-youtube-channels-to-learn-hacking.md)
 * [👀 Hackers to Follow on Social Media](mains/hackers-to-follow-on-social-media/README.md)
   * [Twitter](mains/hackers-to-follow-on-social-media/twitter.md)
   * [Medium](mains/hackers-to-follow-on-social-media/medium.md)
