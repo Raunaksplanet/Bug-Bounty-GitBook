@@ -20,6 +20,10 @@ layout:
 
 {% embed url="https://www.youtube.com/@HackerVlog" %}
 
+{% embed url="https://www.youtube.com/@BittenTech" %}
+
+{% embed url="https://www.youtube.com/@SpinTheHack/featured" %}
+
 {% embed url="https://www.youtube.com/@defronix" %}
 
 {% embed url="https://www.youtube.com/@impratikdabhi" %}
