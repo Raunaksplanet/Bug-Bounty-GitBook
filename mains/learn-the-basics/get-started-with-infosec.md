@@ -6,6 +6,10 @@ description: >-
 
 # 🥉 Get Started With InfoSec
 
+This Page is shifted here:
+
+{% embed url="https://whimsical-poultry-9ad.notion.site/The-Most-Practical-Cyber-Security-Roadmap-133b841caed9806c9b8be6e59a8236a2" %}
+
 ### Learn Linux
 
 1. **Learn Linux Command Line**:
