@@ -6,6 +6,8 @@ description: Let's begin with an example resume for a Cyber Security student.
 
 This resume will serve as a guide for creating your own, whether you have a Bachelor's degree, a Master's degree, or an engineering degree in Computer Science. All these resumes have been gathered from publicly available sources on the internet.
 
+
+
 {% embed url="https://giphy.com/gifs/tv-land-younger-youngertv-l2R098V90nJfuHKg0" %}
 hehe
 {% endembed %}
