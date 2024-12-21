@@ -2,6 +2,8 @@
 
 {% embed url="https://discord.gg/nahamsec" %}
 
+{% embed url="https://discord.gg/x4QkyZ6aHG" %}
+
 {% embed url="https://discord.gg/ctbb" %}
 
 {% embed url="https://discord.gg/S6rP9emQGQ" %}
