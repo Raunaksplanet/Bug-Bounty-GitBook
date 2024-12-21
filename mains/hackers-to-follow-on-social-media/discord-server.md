@@ -1,6 +1,10 @@
 # Discord Server
 
+
+
 {% embed url="https://discord.gg/nahamsec" %}
+
+{% embed url="https://discord.gg/U2HfKnZuxr" %}
 
 {% embed url="https://discord.gg/x4QkyZ6aHG" %}
 
