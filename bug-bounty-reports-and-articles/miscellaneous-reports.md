@@ -12,4 +12,4 @@
 
 {% embed url="https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/" %}
 
-{% embed url="https://freedium.cfd/https://medium.com/@shaikhminhaz1975/how-to-find-bugs-and-vulnerabilities-using-chatgpt-guaranteed-results-3b630fae4691" %}
+{% embed url="https://eaton-works.com/2024/12/19/mcdelivery-india-hack/" %}
