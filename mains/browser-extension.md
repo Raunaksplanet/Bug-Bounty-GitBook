@@ -32,4 +32,5 @@ description: Here are all the Recommended Browser Extensions for the Bug Bounty 
 | Ublock Origin            | Chrome  | [Ublock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)              |
 | Resources Saver          | Chrome  | [Resources Saver](https://chromewebstore.google.com/detail/resources-saver/nlfcijlhljpenllloeheihmhoobeefpc)                |
 | Dot Git                  | Chrome  | [Dot Git](https://chromewebstore.google.com/detail/dotgit/pampamgoihgcedonnphgehgondkhikel)                                 |
+| EndPointer               | Chrome  | [EndPointer](https://chromewebstore.google.com/detail/endpointer/ppliilneafplhagjhhphcjmjdmbjagcp)                          |
 
