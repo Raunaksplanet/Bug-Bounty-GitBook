@@ -2,6 +2,8 @@
 
 ***
 
+{% embed url="https://medium.com/@BrownBearSec/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366" %}
+
 {% embed url="https://infosecwriteups.com/subdomain-takeover-via-aws-s3-bucket-9c54b1b71c46" %}
 
 {% embed url="https://infosecwriteups.com/simple-subdomain-takeover-15129e19bbb4" %}
