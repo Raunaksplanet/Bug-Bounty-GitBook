@@ -2,7 +2,7 @@
 description: Here are all the Recommended Browser Extensions for the Bug Bounty Hunter
 ---
 
-# 📗 Browser extension
+# 📗 Browser extension For Bug Bounty
 
 | Extension Name           | Browser | Link                                                                                                                        |
 | ------------------------ | ------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -33,4 +33,5 @@ description: Here are all the Recommended Browser Extensions for the Bug Bounty 
 | Resources Saver          | Chrome  | [Resources Saver](https://chromewebstore.google.com/detail/resources-saver/nlfcijlhljpenllloeheihmhoobeefpc)                |
 | Dot Git                  | Chrome  | [Dot Git](https://chromewebstore.google.com/detail/dotgit/pampamgoihgcedonnphgehgondkhikel)                                 |
 | EndPointer               | Chrome  | [EndPointer](https://chromewebstore.google.com/detail/endpointer/ppliilneafplhagjhhphcjmjdmbjagcp)                          |
+| Clickjacking Test        | Chrome  | [Clickjacking Test](https://chromewebstore.google.com/detail/clickjacking-test/bjhigladkmnpmglhcnpeiplekpanekpi?hl=en)      |
 
