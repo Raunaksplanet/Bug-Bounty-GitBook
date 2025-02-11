@@ -34,4 +34,5 @@ description: Here are all the Recommended Browser Extensions for the Bug Bounty 
 | Dot Git                  | Chrome  | [Dot Git](https://chromewebstore.google.com/detail/dotgit/pampamgoihgcedonnphgehgondkhikel)                                 |
 | EndPointer               | Chrome  | [EndPointer](https://chromewebstore.google.com/detail/endpointer/ppliilneafplhagjhhphcjmjdmbjagcp)                          |
 | Clickjacking Test        | Chrome  | [Clickjacking Test](https://chromewebstore.google.com/detail/clickjacking-test/bjhigladkmnpmglhcnpeiplekpanekpi?hl=en)      |
+| S3BucketList             | Chrome  | [S3BucketList](https://chromewebstore.google.com/detail/s3bucketlist/anngjobjhcbancaaogmlcffohpmcniki)                      |
 
