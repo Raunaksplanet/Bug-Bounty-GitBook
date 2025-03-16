@@ -13,3 +13,5 @@
 {% embed url="https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/" %}
 
 {% embed url="https://eaton-works.com/2024/12/19/mcdelivery-india-hack/" %}
+
+{% embed url="https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028" %}
