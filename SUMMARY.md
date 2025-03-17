@@ -53,6 +53,7 @@
   * [⚙️ Oauth Functionality](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/oauth-functionality.md)
   * [⚙️ Bypassing](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/bypassing.md)
   * [⚙️ Misconfiguration](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/misconfiguration.md)
+  * [⚙️ Captcha Bypass](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/captcha-bypass.md)
 * [8️⃣ Web Socket](bug-bounty-reports-and-articles/web-socket.md)
 * [9️⃣ Miscellaneous Reports](bug-bounty-reports-and-articles/miscellaneous-reports.md)
 * [0️ Cloud](bug-bounty-reports-and-articles/cloud/README.md)
