@@ -22,4 +22,8 @@ layout:
 
 {% embed url="https://hackerone.com/reports/1074047" %}
 
+{% embed url="https://amjadali110.medium.com/how-i-exploited-an-auth0-misconfiguration-to-bypass-login-restrictions-c5d8c20d5505" %}
+
+{% embed url="https://naumankh4n.medium.com/a-click-can-cause-1600-auth0-misconfig-9234aedad55c" %}
+
 {% embed url="https://www.youtube.com/watch?v=GfIC_qiZb-E" %}
