@@ -46,6 +46,7 @@
   * [🟠 HTML Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/html-injection.md)
   * [🟣 CR/LF Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/cr-lf-injection.md)
   * [🟢 SSTI](bug-bounty-reports-and-articles/injections-html-xss-etc/ssti.md)
+  * [🔴 Host Header Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/host-header-injection.md)
 * [7️⃣ Broken Access Control & Broken Authentication](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/README.md)
   * [⚙️ File Upload Functionality](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/file-upload-functionality.md)
   * [⚙️ Password Reset Functionality](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/password-reset-functionality.md)
