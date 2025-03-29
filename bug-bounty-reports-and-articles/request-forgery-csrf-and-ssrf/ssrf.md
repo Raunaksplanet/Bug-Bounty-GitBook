@@ -16,6 +16,8 @@
 
 {% embed url="https://medium.com/@josekuttykunnelthazhebinu/how-i-uncovered-an-ssrf-vulnerability-in-a-private-hackerone-program-4c3146b414ff" %}
 
+{% embed url="https://freedium.cfd/http://medium.com/@iski/when-life-gave-me-a-500-error-i-found-aws-keys-instead-rf-b416f8ca68f8" %}
+
 {% embed url="https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/htmlpresent" %}
 
 {% embed url="https://www.youtube.com/watch?v=heyWQ2tqpqA" %}
