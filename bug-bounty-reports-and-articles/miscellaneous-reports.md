@@ -1,5 +1,9 @@
 # 9️⃣ Miscellaneous Reports
 
+{% embed url="https://securityrise.com/ua/posts/gift-card-security-research/" %}
+
+{% embed url="https://securityrise.com/ua/posts/redacted-bugs-3/" %}
+
 {% embed url="https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html" %}
 
 {% embed url="https://www.google.com/search?q=aem+bug+medium&oq=aem+bug+&gs_lcrp=EgZjaHJvbWUqBggBECMYJzIMCAAQRRg5GIAEGKIEMgYIARAjGCcyDQgCEAAYkQIYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyCggFEAAYgAQYogTSAQgyNzMwajBqN6gCFLACAQ&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8" %}
