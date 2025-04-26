@@ -11,3 +11,5 @@
 {% embed url="https://medium.com/@0x_karim/web-cache-deception-on-private-program-ccce0a612d46" %}
 
 {% embed url="https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f" %}
+
+{% embed url="https://theindiannetwork.medium.com/i-found-cache-poisoning-earned-500-in-just-a-few-minutes-78337a437d55" %}
