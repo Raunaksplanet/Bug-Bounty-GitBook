@@ -16,6 +16,8 @@ layout:
 
 {% embed url="https://freedium.cfd/https://infosecwriteups.com/the-oauth-misconfiguration-15e66dd19a6e" %}
 
+{% embed url="https://infosecwriteups.com/how-i-hijacked-oauth-tokens-through-a-parallel-auth-flow-race-condition-8500-p1-bug-bounty-7af1cccc4d4c" %}
+
 {% embed url="https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16" %}
 
 {% embed url="https://medium.com/@paulsamuel484/oauth-misconfiguration-vulnerability-4fb2ad1989d3" %}
