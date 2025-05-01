@@ -59,6 +59,7 @@
   * [⚙️ Captcha Bypass](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/captcha-bypass.md)
 * [8️⃣ Web Socket](bug-bounty-reports-and-articles/web-socket.md)
 * [9️⃣ Miscellaneous Reports](bug-bounty-reports-and-articles/miscellaneous-reports.md)
+* [🧻 Role Management Issue](bug-bounty-reports-and-articles/role-management-issue.md)
 * [0️ Cloud](bug-bounty-reports-and-articles/cloud/README.md)
   * [🌩️ AWS S3](bug-bounty-reports-and-articles/cloud/aws-s3.md)
 * [1️ Low Hanging Fruits](bug-bounty-reports-and-articles/low-hanging-fruits.md)
