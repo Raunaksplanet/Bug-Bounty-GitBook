@@ -65,6 +65,10 @@
 * [2️ Cache Vulnerabilities](bug-bounty-reports-and-articles/cache-poising.md)
 * [3️ DOS/DDOS](bug-bounty-reports-and-articles/dos-ddos.md)
 
+***
+
+* [4️ Forced Browsing](forced-browsing.md)
+
 ## Bug Bounty Platforms
 
 * [🐛 BugCrowd](bug-bounty-platforms/bugcrowd.md)
