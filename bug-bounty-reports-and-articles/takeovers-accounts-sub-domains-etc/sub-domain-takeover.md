@@ -49,3 +49,5 @@
 {% embed url="https://freedium.cfd/https://medium.com/entersoftsecurity/weird-subdomain-take-over-pattern-of-amazon-s3-75165ab2e883" %}
 
 {% embed url="https://remonsec.com/posts/passive-recon-with-spyse-part-II/" %}
+
+{% embed url="https://nvk0x.medium.com/how-i-hijacked-12-subdomains-in-one-program-eea468bcd64f" %}

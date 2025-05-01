@@ -44,6 +44,7 @@
 * [6️⃣ Injections (HTML, XSS, etc)](bug-bounty-reports-and-articles/injections-html-xss-etc/README.md)
   * [🟡 XSS](bug-bounty-reports-and-articles/injections-html-xss-etc/xss.md)
   * [🟠 HTML Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/html-injection.md)
+  * [⚫ SQL Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/sql-injection.md)
   * [🟣 CR/LF Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/cr-lf-injection.md)
   * [🟢 SSTI](bug-bounty-reports-and-articles/injections-html-xss-etc/ssti.md)
   * [🔴 Host Header Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/host-header-injection.md)
