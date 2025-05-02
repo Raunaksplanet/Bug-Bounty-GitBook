@@ -1,6 +1,8 @@
-# 1️ 1️ Low Hanging Fruits
+# 1️ Low Hanging Fruits
 
 {% embed url="https://hackerone.com/reports/229577" %}
+
+{% embed url="https://medium.com/techiepedia/how-to-report-dmarc-vulnerabilities-efficiently-to-earn-bounties-easily-f7a65ecdd20b" %}
 
 {% embed url="https://hackerone.com/reports/224572" %}
 
