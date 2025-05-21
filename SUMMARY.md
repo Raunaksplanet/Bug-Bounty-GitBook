@@ -45,6 +45,7 @@
 * [🪀 Learn Frida For Android Pentesting](learn-frida-for-android-pentesting.md)
 * [🏈 Bypassing Security Protections in APKs via Objection and Frida](bypassing-security-protections-in-apks-via-objection-and-frida.md)
 * [🪁 Security Tools For Android Pentesting](security-tools-for-android-pentesting.md)
+* [🎹 CLI Commands & Shortcuts](cli-commands-and-shortcuts.md)
 
 ## Bug Bounty Reports & Articles
 
