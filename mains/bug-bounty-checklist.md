@@ -40,6 +40,12 @@ Build your own Bug Bounty Check List or scroll down and check mine mostly inspir
 
 ***
 
+{% hint style="success" %}
+Grab PDF format:&#x20;
+
+[https://drive.google.com/file/d/150VFlq7yzC3NydvoWLHGOZ\_mjdUR3pXB/view?usp=sharing](https://drive.google.com/file/d/150VFlq7yzC3NydvoWLHGOZ_mjdUR3pXB/view?usp=sharing)
+{% endhint %}
+
 ## Functionality
 
 ### **Oauth**

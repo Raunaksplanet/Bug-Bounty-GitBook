@@ -28,9 +28,19 @@
 * [🔮 Build your own Bug Bounty Methodology](mains/build-your-own-bug-bounty-methodology.md)
 * [🎴 Bug Bounty Checklist](mains/bug-bounty-checklist.md)
 
-## Group 1
+## Learn Android Bug Bounty
 
-* [Page 1](group-1/page-1.md)
+* [🎥 Video Tutorials](learn-android-bug-bounty/video-tutorials.md)
+
+***
+
+* [❤️ YouTube Channels](youtube-channels.md)
+* [📰 Bug Bounty Reports](bug-bounty-reports.md)
+* [📚 Blogs & Writeups](blogs-and-writeups.md)
+* [🏹 GitHub Repository](github-repository.md)
+* [👨‍👨‍👧 Conference Talks](conference-talks.md)
+* [🖨️ Automated Scanners](automated-scanners.md)
+* [⚙️ Intentionally Vulnerable Apps](intentionally-vulnerable-apps.md)
 
 ## Bug Bounty Reports & Articles
 
