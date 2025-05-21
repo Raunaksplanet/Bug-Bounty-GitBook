@@ -30,7 +30,7 @@
 
 ## Learn Android Bug Bounty
 
-* [🎥 Video Tutorials](learn-android-bug-bounty/video-tutorials.md)
+* [🎥 Video Tutorials](group-1/page-1.md)
 
 ***
 
@@ -41,6 +41,10 @@
 * [👨‍👨‍👧 Conference Talks](conference-talks.md)
 * [🖨️ Automated Scanners](automated-scanners.md)
 * [⚙️ Intentionally Vulnerable Apps](intentionally-vulnerable-apps.md)
+* [🎱 Learn Drozer For Android Pentesting](learn-drozer-for-android-pentesting.md)
+* [🪀 Learn Frida For Android Pentesting](learn-frida-for-android-pentesting.md)
+* [🏈 Bypassing Security Protections in APKs via Objection and Frida](bypassing-security-protections-in-apks-via-objection-and-frida.md)
+* [🪁 Security Tools For Android Pentesting](security-tools-for-android-pentesting.md)
 
 ## Bug Bounty Reports & Articles
 
