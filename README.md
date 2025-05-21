@@ -2,7 +2,7 @@
 description: >-
   In this Gitbook, I have gathered all the important resources, links, writeups,
   articles, tools, and more that you need to learn about Cyber Security, Bug
-  Bounty, Ethical Hacking.
+  Bounty, Ethical Hacking, Android Pentesting.
 cover: .gitbook/assets/Eternal Warriors WP 04.jpg
 coverY: 46.336
 layout:

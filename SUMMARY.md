@@ -24,7 +24,7 @@
   * [🍪 Hacking Books](mains/learn-the-basics/hacking-books.md)
   * [🥂 CLI Commands](mains/learn-the-basics/cli-commands.md)
   * [💿 Learn WSL](mains/learn-the-basics/learn-wsl.md)
-* [🧑‍💻 Fun Programming Codes](mains/fun-programming-codes.md)
+* [👩‍💻 Fun Programming Codes](mains/fun-programming-codes.md)
 * [🔮 Build your own Bug Bounty Methodology](mains/build-your-own-bug-bounty-methodology.md)
 * [🎴 Bug Bounty Checklist](mains/bug-bounty-checklist.md)
 
@@ -74,8 +74,12 @@
 
 * [🐛 BugCrowd](bug-bounty-platforms/bugcrowd.md)
 * [🐞 HackerOne](bug-bounty-platforms/hackerone.md)
-* [🪲 Intigriti](bug-bounty-platforms/intigriti.md)
+* [🐝 Intigriti](bug-bounty-platforms/intigriti.md)
 * [🐜 Open Bug Bounty](bug-bounty-platforms/open-bug-bounty.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
 
 ## Exploiting Technologies
 
@@ -83,4 +87,3 @@
 * [1️⃣ Wordpress](exploiting-technologies/wordpress.md)
 * [2️⃣ GraphQL API](exploiting-technologies/graphql-api.md)
 * [3️⃣ IDOR Vulnerability](exploiting-technologies/idor-vulnerability.md)
-* [Learn Android Hacking](exploiting-technologies/learn-android-hacking.md)

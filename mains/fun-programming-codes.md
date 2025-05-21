@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🧑‍💻 Fun Programming Codes
+# 👩‍💻 Fun Programming Codes
 
 ## 1. CPP Codes
 
