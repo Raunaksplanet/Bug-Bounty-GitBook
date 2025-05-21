@@ -28,6 +28,10 @@
 * [🔮 Build your own Bug Bounty Methodology](mains/build-your-own-bug-bounty-methodology.md)
 * [🎴 Bug Bounty Checklist](mains/bug-bounty-checklist.md)
 
+## Group 1
+
+* [Page 1](group-1/page-1.md)
+
 ## Bug Bounty Reports & Articles
 
 * [0️⃣ Index](bug-bounty-reports-and-articles/index.md)
@@ -76,10 +80,6 @@
 * [🐞 HackerOne](bug-bounty-platforms/hackerone.md)
 * [🐝 Intigriti](bug-bounty-platforms/intigriti.md)
 * [🐜 Open Bug Bounty](bug-bounty-platforms/open-bug-bounty.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
 
 ## Exploiting Technologies
 
