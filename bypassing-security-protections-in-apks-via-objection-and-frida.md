@@ -14,12 +14,19 @@ layout:
 
 # 🏈 Bypassing Security Protections in APKs via Objection and Frida
 
+Here's the updated list:
+
+***
+
 * **Learn Objection Basics**: [YouTube Tutorial](https://www.youtube.com/watch?v=Hu8m_XseXm4)
+* **Patching Applications Automatically using Objection**: [Watch here](https://www.youtube.com/watch?v=Hu8m_XseXm4\&t=51s)
 * **Pin Bypass via Objection**: [YouTube Guide](https://www.youtube.com/watch?v=1hJiMGjUnDw)
 * **Bypassing APK Detections**:
   * [Objection + Frida Demo](https://www.youtube.com/watch?v=S8Qt1dWfPjs)
   * [Advanced Bypass Techniques](https://www.youtube.com/watch?v=087Vsk5a9RY)
   * [Bypassing Multiple Defenses](https://www.youtube.com/watch?v=BQwyy338Zag)
+* **Root Detection Bypass**: [Watch here](https://www.youtube.com/watch?v=DTaoT9Lgmug)
+* **Bypassing Android SSL Pinning using Frida | Objection and NOX Player**: [Watch here](https://www.youtube.com/watch?v=9VnbNY1uf7c\&list=PLn4fSTVui_Gwrvhlc7HtHwg3kvZo5b4xV\&index=34)
 * **Multi-Part Series**:
   * [Part 1: Fundamentals](https://www.youtube.com/watch?v=5-0KsD7saUg)
   * [Part 2: Intermediate](https://www.youtube.com/watch?v=6lRIR6EQUPI)
