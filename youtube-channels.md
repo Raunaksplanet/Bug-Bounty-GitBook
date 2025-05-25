@@ -18,3 +18,4 @@ layout:
 * [B3nacSec](https://www.youtube.com/@B3nacSec/videos)
 * [LaurieWired](https://www.youtube.com/@lauriewired/videos)
 * [AppSecHub](https://www.youtube.com/@appsechub/videos)
+* [Hacking Simplified](https://www.youtube.com/@HackingSimplifiedAS/videos)
