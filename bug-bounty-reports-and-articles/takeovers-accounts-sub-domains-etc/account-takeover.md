@@ -4,6 +4,8 @@
 
 {% embed url="https://medium.com/@sahaj.gautam14/0-click-account-takeover-earned-me-900-bounty-f5b3b6dbb606" %}
 
+{% embed url="https://waqaszaka.me/account-takeover-via-reset-password-functionality" %}
+
 {% embed url="https://mo9khu93r.medium.com/pre-account-takeover-f467566d69cc" %}
 
 {% embed url="https://medium.com/@mohamed0xmuslim/oauth-misconfiguration-leads-to-0-click-ato-b407fe05fdf4" %}
