@@ -31,6 +31,7 @@ Here's the updated list:
   * [Part 1: Fundamentals](https://www.youtube.com/watch?v=5-0KsD7saUg)
   * [Part 2: Intermediate](https://www.youtube.com/watch?v=6lRIR6EQUPI)
   * [Part 3: Advanced](https://www.youtube.com/watch?v=bJgR5PKv2t0)
+* [Quick and dirty Frida, with adb and objection](https://www.youtube.com/watch?v=sz0PjrV3ZsQ)
 
 ***
 
