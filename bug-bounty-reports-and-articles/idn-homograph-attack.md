@@ -23,3 +23,5 @@ layout:
 {% embed url="https://medium.com/bugbountywriteup/how-i-was-able-to-change-victims-password-using-idn-homograph-attack-587111843aff" %}
 
 {% embed url="https://coffinxp.medium.com/the-most-underrated-0-click-account-takeover-using-punycode-idn-attacks-c0afdb74a3dc" %}
+
+{% embed url="https://www.youtube.com/watch?v=Cj1sOFHDClM" %}
