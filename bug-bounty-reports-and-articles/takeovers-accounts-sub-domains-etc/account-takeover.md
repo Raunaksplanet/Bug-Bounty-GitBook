@@ -34,4 +34,6 @@
 
 {% embed url="https://medium.com/@mahfujwhh/0-click-account-takeover-6af63f241ac9" %}
 
+{% embed url="https://www.youtube.com/watch?v=_zvFPqYqOhY" %}
+
 {% embed url="https://www.youtube.com/watch?v=EI52YTRfGRU" %}
