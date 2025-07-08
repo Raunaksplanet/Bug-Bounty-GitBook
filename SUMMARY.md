@@ -47,6 +47,21 @@
 * [🪁 Security Tools For Android Pentesting](security-tools-for-android-pentesting.md)
 * [🎹 CLI Commands & Shortcuts](cli-commands-and-shortcuts.md)
 
+## Learn Thick Client Pentesting
+
+* [🟥 Introduction Videos](learn-thick-client-pentesting/introduction-videos.md)
+
+***
+
+* [📑 Introduction Articles](introduction-articles.md)
+* [✅ Pentesting Checklist](pentesting-checklist.md)
+* [📚 Bug Bounty Writeups](bug-bounty-writeups.md)
+* [🐞 Thick Client Vulnerabilities](thick-client-vulnerabilities/README.md)
+  * [DLL Hijacking Basics](thick-client-vulnerabilities/dll-hijacking-basics.md)
+* [🥼 Intentionally vulnerable labs](intentionally-vulnerable-labs.md)
+* [🛠️ Tools for Thick Client Pentesting](tools-for-thick-client-pentesting.md)
+* [🏠 Bug Bounty Programs with Thick Client Scope](bug-bounty-programs-with-thick-client-scope.md)
+
 ## Bug Bounty Reports & Articles
 
 * [0️⃣ Index](bug-bounty-reports-and-articles/index.md)
