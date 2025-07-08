@@ -1,4 +1,4 @@
-# 2️⃣ IDOR (Indirect Object Reference)&#x20;
+# 2️⃣ IDOR (Indirect Object Reference)
 
 ***
 
@@ -19,5 +19,7 @@
 {% embed url="https://hackerone.com/reports/1969141" %}
 
 {% embed url="https://bepractical.tech/blogs/all-about-idor/" %}
+
+{% embed url="https://medium.com/legionhunters/how-i-ethically-hacked-my-college-portal-with-a-jwt-token-and-reported-it-responsibly-16aa97a5255e" %}
 
 {% embed url="https://www.youtube.com/watch?v=_zkxePwnf9A" %}
