@@ -27,6 +27,8 @@ layout:
 
 {% embed url="https://www.cobalt.io/blog/cobalt-core-academy-thick-client-pentesting" %}
 
+{% embed url="https://www.cobalt.io/blog/attacking-windows-applications-pt.-2" %}
+
 {% embed url="https://www.cobalt.io/blog/attacking-windows-applications-part-1" %}
 
 {% embed url="https://csbygb.gitbook.io/pentips/thick-client-pentest/thick-client" %}
