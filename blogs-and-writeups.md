@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📚 Blogs & Writeups
 
 | Title                                                   | Description                                                                                                                                             | Link                                                                                                                          |
@@ -36,6 +22,7 @@ layout:
 | @vaishalinagori112 on Medium                            | [Link](https://medium.com/@vaishalinagori112)                                                                                                           |                                                                                                                               |
 | @prasadraj954 on Medium                                 | [Link](https://medium.com/@prasadraj954)                                                                                                                |                                                                                                                               |
 | B3nac’s Android Reports and Resources                   | [Link](https://github.com/B3nac/Android-Reports-and-Resources)                                                                                          |                                                                                                                               |
+| Sandeep Wawdane                                         | [Link](https://thecybersandeep.medium.com/)                                                                                                             |                                                                                                                               |
 | Oversecured Blog                                        | [Link](https://blog.oversecured.com/)                                                                                                                   |                                                                                                                               |
 | CorSecure Blog                                          | [Link](https://corsecure.blog/)                                                                                                                         |                                                                                                                               |
 | Frida Official Documentation                            | [Link](https://frida.re/docs/)                                                                                                                          |                                                                                                                               |
