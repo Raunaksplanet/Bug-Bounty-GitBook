@@ -61,6 +61,7 @@
 * [🥼 Intentionally vulnerable labs](intentionally-vulnerable-labs.md)
 * [🛠️ Tools for Thick Client Pentesting](tools-for-thick-client-pentesting.md)
 * [🏠 Bug Bounty Programs with Thick Client Scope](bug-bounty-programs-with-thick-client-scope.md)
+* [💵 Paid Udemy Course](paid-udemy-course.md)
 
 ## Bug Bounty Reports & Articles
 
