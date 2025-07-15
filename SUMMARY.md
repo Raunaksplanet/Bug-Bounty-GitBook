@@ -28,6 +28,10 @@
 * [🔮 Build your own Bug Bounty Methodology](mains/build-your-own-bug-bounty-methodology.md)
 * [🎴 Bug Bounty Checklist](mains/bug-bounty-checklist.md)
 
+***
+
+* [🟧 Learn to Use Burp Suite](learn-to-use-burp-suite.md)
+
 ## Learn Android Bug Bounty
 
 * [🎥 Video Tutorials](group-1/page-1.md)
