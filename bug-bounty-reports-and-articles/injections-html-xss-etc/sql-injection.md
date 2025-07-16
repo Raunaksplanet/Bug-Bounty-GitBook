@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ⚫ SQL Injection
 
 {% embed url="https://medium.com/@bug4y0u/how-i-got-4-sqli-vulnerabilities-at-one-target-manually-using-the-repeater-tab-ed4eb1f84147" %}
@@ -39,3 +25,5 @@ layout:
 {% embed url="https://c0nqr0r.medium.com/error-based-sql-injection-with-waf-bypass-manual-exploit-100-bab36b769005" %}
 
 {% embed url="https://infosecwriteups.com/how-i-found-multiple-sql-injection-with-ffuf-and-sqlmap-in-a-few-minutes-2824cd4dfab" %}
+
+{% embed url="https://dewcode.medium.com/how-i-found-my-first-sqli-vulnerability-3500-bounty-7c441007bcf9" %}

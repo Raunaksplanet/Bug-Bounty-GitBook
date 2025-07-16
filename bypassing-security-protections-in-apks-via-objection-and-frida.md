@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🏈 Bypassing Security Protections in APKs via Objection and Frida
 
 Here's the updated list:
@@ -32,6 +18,8 @@ Here's the updated list:
   * [Part 2: Intermediate](https://www.youtube.com/watch?v=6lRIR6EQUPI)
   * [Part 3: Advanced](https://www.youtube.com/watch?v=bJgR5PKv2t0)
 * [Quick and dirty Frida, with adb and objection](https://www.youtube.com/watch?v=sz0PjrV3ZsQ)
+* \[Important] Objection Latest Version Issue with Frida:&#x20;
+  * [https://infosecwriteups.com/the-frida-objection-setup-guide-solving-version-hell-on-android-ios-timeless-guide-f55eb98459a0](https://infosecwriteups.com/the-frida-objection-setup-guide-solving-version-hell-on-android-ios-timeless-guide-f55eb98459a0)&#x20;
 
 ***
 

@@ -1,8 +1,12 @@
-# ⚙️ 2FA Functionality&#x20;
+# ⚙️ 2FA Functionality
 
 {% embed url="https://hackerone.com/reports/897385" %}
 
+{% embed url="https://hackerone.com/reports/1050244" %}
+
 {% embed url="https://hackerone.com/reports/922456" %}
+
+{% embed url="https://hackerone.com/reports/897385" %}
 
 {% embed url="https://hackerone.com/reports/910300" %}
 

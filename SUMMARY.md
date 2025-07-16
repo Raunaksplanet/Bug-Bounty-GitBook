@@ -96,6 +96,7 @@
   * [⚙️ Bypassing](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/bypassing.md)
   * [⚙️ Misconfiguration](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/misconfiguration.md)
   * [⚙️ Captcha Bypass](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/captcha-bypass.md)
+  * [⚙️ Business Logic Flow](bug-bounty-reports-and-articles/broken-access-control-and-broken-authentication/business-logic-flow.md)
 * [8️⃣ Web Socket](bug-bounty-reports-and-articles/web-socket.md)
 * [9️⃣ Miscellaneous Reports](bug-bounty-reports-and-articles/miscellaneous-reports.md)
 * [🔟 IDN Homograph Attack](bug-bounty-reports-and-articles/idn-homograph-attack.md)
