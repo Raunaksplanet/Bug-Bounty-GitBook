@@ -5,20 +5,6 @@ description: >-
   Bounty, Ethical Hacking, Android Pentesting.
 cover: .gitbook/assets/Eternal Warriors WP 04.jpg
 coverY: 46.336
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 Introduction to Biscuit's Bug Bounty Playbook
@@ -31,7 +17,7 @@ layout:
 
 ### Fell Free To Reach Me:
 
-> [Twitter](https://x.com/OreoBiscui74046)                    [GitHub](https://github.com/Raunaksplanet)                   [Medium](https://medium.com/@RaunakGupta1922)                    [LinkedIn](https://www.linkedin.com/in/raunak-gupta-772408255/)
+> [Twitter](https://x.com/OreoB1scuit)                    [GitHub](https://github.com/Raunaksplanet)                   [Medium](https://medium.com/@RaunakGupta1922)                    [LinkedIn](https://www.linkedin.com/in/raunak-gupta-772408255/)
 
 ***
 
