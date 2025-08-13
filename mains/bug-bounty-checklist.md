@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🎴 Bug Bounty Checklist
 
 {% hint style="success" %}
@@ -19,6 +5,8 @@ Build your own Bug Bounty Check List or scroll down and check mine mostly inspir
 {% endhint %}
 
 {% embed url="https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist" %}
+
+{% embed url="https://jeweled-lathe-d5e.notion.site/Bugs-detailed-25ae98f3d3b648bba4e1ab155e6760cb" %}
 
 {% embed url="https://github.com/daffainfo/AllAboutBugBounty" %}
 
