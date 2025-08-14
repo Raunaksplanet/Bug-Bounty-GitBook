@@ -23,3 +23,5 @@
 {% embed url="https://medium.verylazytech.com/ldap-ports-389-636-3268-3269-how-to-exploit-48af0aaac0ae" %}
 
 {% embed url="https://freedium.cfd/https://medium.com/@loyalonlytoday/7a6562df2aba" %}
+
+{% embed url="https://aboalezz1.medium.com/privilege-escalation-using-client-side-path-traversal-e1d0762a966d" %}
