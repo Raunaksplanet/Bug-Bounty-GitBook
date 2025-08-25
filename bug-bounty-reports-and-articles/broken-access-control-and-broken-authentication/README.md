@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 7️⃣ Broken Access Control & Broken Authentication
 
 **Broken Access Control**: This vulnerability arises when an application fails to enforce appropriate permissions, allowing users to access unauthorized resources or actions. It can lead to data breaches, unauthorized modifications, and exposure of sensitive information.

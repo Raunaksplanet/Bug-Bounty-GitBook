@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 6️⃣ Injections (HTML, XSS, etc)
 
 Injection vulnerabilities, including HTML injection and Cross-Site Scripting (XSS), occur when untrusted data is sent to an interpreter as part of a command or query, leading to unintended actions. HTML injection allows attackers to insert malicious HTML code into web pages viewed by other users, potentially defacing web pages and stealing session cookies.

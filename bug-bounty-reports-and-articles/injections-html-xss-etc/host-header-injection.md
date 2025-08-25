@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🔴 Host Header Injection
 
 {% embed url="https://medium.com/@abdallahsamirabdallah60/account-takeover-via-host-header-injection-a0a711ec5994" %}

@@ -1,16 +1,5 @@
 ---
 description: Here are the some amazing Programming codes which I created when I was bored
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👩‍💻 Fun Programming Codes

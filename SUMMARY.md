@@ -55,6 +55,7 @@
 ## Learn Thick Client Pentesting
 
 * [🟥 Introduction Videos](learn-thick-client-pentesting/introduction-videos.md)
+* [My Android Bug Bounty Lab Setup](learn-thick-client-pentesting/my-android-bug-bounty-lab-setup.md)
 
 ***
 

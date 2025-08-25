@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🔟 IDN Homograph Attack
 
 {% embed url="https://shahjerry33.medium.com/idn-homograph-attack-and-response-manipulation-the-rarest-case-85f64c272a1c" %}

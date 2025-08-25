@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🟢 SSTI
 
 {% embed url="https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection" %}

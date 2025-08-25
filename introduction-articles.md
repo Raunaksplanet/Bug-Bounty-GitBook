@@ -1,18 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📑 Introduction Articles
 
 {% embed url="https://www.cyberark.com/resources/threat-research-blog/thick-client-penetration-testing-methodology" %}
