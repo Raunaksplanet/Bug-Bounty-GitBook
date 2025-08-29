@@ -27,6 +27,7 @@
 * [👩‍💻 Fun Programming Codes](mains/fun-programming-codes.md)
 * [🔮 Build your own Bug Bounty Methodology](mains/build-your-own-bug-bounty-methodology.md)
 * [🎴 Bug Bounty Checklist](mains/bug-bounty-checklist.md)
+* [😼 JS Analysis for Bug Bounty](mains/js-analysis-for-bug-bounty.md)
 
 ***
 
