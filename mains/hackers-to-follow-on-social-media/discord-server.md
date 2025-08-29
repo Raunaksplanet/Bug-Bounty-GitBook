@@ -6,6 +6,12 @@
 
 {% embed url="https://discord.gg/U2HfKnZuxr" %}
 
+{% embed url="https://discord.gg/3KFMnjgccp" %}
+
+{% embed url="https://discord.gg/amH2CqRc6K" %}
+
+{% embed url="https://discord.gg/sqwP2uKuqE" %}
+
 {% embed url="https://discord.gg/x4QkyZ6aHG" %}
 
 {% embed url="https://discord.gg/ctbb" %}
