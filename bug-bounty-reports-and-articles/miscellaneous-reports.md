@@ -25,3 +25,6 @@
 {% embed url="https://freedium.cfd/https://medium.com/@loyalonlytoday/7a6562df2aba" %}
 
 {% embed url="https://aboalezz1.medium.com/privilege-escalation-using-client-side-path-traversal-e1d0762a966d" %}
+
+{% embed url="https://systemweakness.com/using-tor-network-to-bypass-rate-limits-9fe2b174c316" %}
+
