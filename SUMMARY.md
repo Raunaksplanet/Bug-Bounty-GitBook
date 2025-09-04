@@ -52,11 +52,11 @@
 * [🪁 Security Tools For Android Pentesting](security-tools-for-android-pentesting.md)
 * [😼 PIDCAT for Android Bug Bounty Logging](pidcat-for-android-bug-bounty-logging.md)
 * [🎹 CLI Commands & Shortcuts](cli-commands-and-shortcuts.md)
+* [My Android Bug Bounty Lab Setup](my-android-bug-bounty-lab-setup.md)
 
 ## Learn Thick Client Pentesting
 
 * [🟥 Introduction Videos](learn-thick-client-pentesting/introduction-videos.md)
-* [My Android Bug Bounty Lab Setup](learn-thick-client-pentesting/my-android-bug-bounty-lab-setup.md)
 
 ***
 

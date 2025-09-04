@@ -5,3 +5,5 @@
 {% embed url="https://www.darkrelay.com/post/thick-client-penetration-testing" %}
 
 {% embed url="https://www.netspi.com/blog/" %}
+
+{% embed url="https://www.vulnano.com/2025/09/remote-code-execution-though.html" %}
