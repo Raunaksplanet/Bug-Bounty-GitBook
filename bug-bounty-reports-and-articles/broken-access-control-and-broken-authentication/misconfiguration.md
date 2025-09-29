@@ -7,3 +7,7 @@
 {% embed url="https://dewcode.medium.com/how-did-i-earn-by-breaking-the-back-end-logic-of-the-server-fd94882cbdf6" %}
 
 {% embed url="https://bishal0x01.medium.com/godaddy-user-emails-leaked-due-to-api-misconfiguration-db41ca286f97" %}
+
+{% embed url="https://medusa0xf.medium.com/bug-bounty-guide-finding-and-exploiting-leaked-git-directories-1e05dc520bf5" %}
+
+{% embed url="https://medium.com/@luq0x/how-a-logic-flaw-allowed-silent-logins-in-a-financial-application-5eed48939018" %}

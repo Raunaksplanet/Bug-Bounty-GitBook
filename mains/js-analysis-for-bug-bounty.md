@@ -29,6 +29,8 @@ layout:
 
 {% embed url="https://medium.com/legionhunters/js-recon-to-html-injection-4cdca8fd88cf" %}
 
+{% embed url="https://infosecwriteups.com/exposed-client-secret-in-javascript-resulted-in-quick-bug-bounty-35a609be138d" %}
+
 {% embed url="https://www.youtube.com/watch?v=WnUGRaaDHGw" %}
 
 {% embed url="https://www.youtube.com/watch?v=FpX_4CSDzSM" %}

@@ -4,7 +4,11 @@
 
 {% embed url="https://medium.com/@pranshux0x/super-blind-sql-injection-20000-bounty-thousands-of-targets-still-vulnerable-f9b013765448" %}
 
+{% embed url="https://blog.xdd.fi/how-an-accidental-step-into-an-out-of-scope-asset-lead-to-unauthenticated-sql-injection-in-onelogin/" %}
+
 {% embed url="https://medium.com/@kshunya/how-i-got-time-based-sql-injection-in-an-old-public-bug-bounty-program-f6260cd4e75e" %}
+
+{% embed url="https://infosecwriteups.com/how-i-found-multiple-sql-injections-in-5-minutes-in-bug-bounty-40155964c498" %}
 
 {% embed url="https://medium.com/@adebayosec/my-first-bounty-a-story-of-a-blind-sql-injection-69d9ad6716b6" %}
 

@@ -4,6 +4,8 @@
 
 {% embed url="https://nullr3x.medium.com/chaining-idor-and-host-header-can-takeover-18-million-of-users-account-39d402f6a79e" %}
 
+{% embed url="https://medium.com/@Tanvir0x1/critical-idor-vulnerability-leads-to-user-information-disclosure-b0bb7f06aef5" %}
+
 {% embed url="https://cyberspecs.medium.com/idor-at-election-commission-website-e3f99c28c62d" %}
 
 {% embed url="https://hackerone.com/reports/1403176" %}

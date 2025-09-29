@@ -2,7 +2,11 @@
 
 {% embed url="https://securityrise.com/ua/posts/gift-card-security-research/" %}
 
+{% embed url="https://medium.com/@renwa/client-side-path-traversal-cspt-bug-bounty-reports-and-techniques-8ee6cd2e7ca1" %}
+
 {% embed url="https://securityrise.com/ua/posts/redacted-bugs-3/" %}
+
+{% embed url="https://medium.com/@novan.rmd/how-to-get-easy-from-bug-bounty-web-parameter-tampering-e6aad5a68658" %}
 
 {% embed url="https://nokline.github.io/bugbounty/2024/06/07/Zoom-ATO.html" %}
 

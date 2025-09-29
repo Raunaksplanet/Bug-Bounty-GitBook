@@ -39,3 +39,5 @@
 {% embed url="https://medium.com/@bobby.S/how-to-find-origin-ip-1f684f459942" %}
 
 {% embed url="https://0xk4tedu.medium.com/how-i-can-easily-get-four-p1-at-nasa-using-simple-google-dorking-d4457bec1971" %}
+
+{% embed url="https://medium.com/@medusa0xf/how-i-discovered-a-pii-leak-in-a-developer-platform-d2f3e89653ce" %}

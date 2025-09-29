@@ -10,6 +10,10 @@
 
 {% embed url="https://hackerone.com/reports/910300" %}
 
+{% embed url="https://medium.com/@rahulgairola/the-12-000-2fa-bypass-so-simple-yet-so-critical-e3f7d7e5751c" %}
+
+{% embed url="https://freedium.cfd/https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461" %}
+
 {% embed url="https://hackerone.com/reports/1139535" %}
 
 {% embed url="https://hackerone.com/reports/1050244" %}

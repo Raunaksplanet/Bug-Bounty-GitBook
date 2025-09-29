@@ -2,7 +2,13 @@
 
 {% embed url="https://hackerone.com/reports/846338" %}
 
+{% embed url="https://1-day.medium.com/how-i-found-a-critical-xss-on-a-public-bug-bounty-program-27d492117f61" %}
+
 {% embed url="https://hackerone.com/reports/1010466" %}
+
+{% embed url="https://vikaran101.medium.com/reflected-xss-on-byjus-my-first-bug-a5bbab098748" %}
+
+{% embed url="https://infosecwriteups.com/exploiting-xss-with-javascript-jpeg-polyglot-4cff06f8201a" %}
 
 {% embed url="https://hackerone.com/reports/1962645" %}
 

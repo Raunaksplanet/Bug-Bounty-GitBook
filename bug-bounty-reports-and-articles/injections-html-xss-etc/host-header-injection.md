@@ -13,3 +13,5 @@
 {% embed url="https://aditya-chauhan17.medium.com/host-header-injection-to-rce-1619311b21bc" %}
 
 {% embed url="https://medium.com/@oXnoOneXo/simple-ato-in-private-program-890cd1485675" %}
+
+{% embed url="https://infosecwriteups.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5" %}
