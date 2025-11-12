@@ -31,6 +31,8 @@ layout:
 
 {% embed url="https://infosecwriteups.com/exposed-client-secret-in-javascript-resulted-in-quick-bug-bounty-35a609be138d" %}
 
+{% embed url="https://kpwn.de/2023/05/javascript-analysis-for-pentesters/" %}
+
 {% embed url="https://www.youtube.com/watch?v=WnUGRaaDHGw" %}
 
 {% embed url="https://www.youtube.com/watch?v=FpX_4CSDzSM" %}
