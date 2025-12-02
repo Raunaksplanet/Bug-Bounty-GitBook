@@ -33,6 +33,12 @@ layout:
 
 {% embed url="https://kpwn.de/2023/05/javascript-analysis-for-pentesters/" %}
 
+{% embed url="https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-1-dd08ed34b5a8" %}
+
+{% embed url="https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-2-f82164917e7" %}
+
+{% embed url="https://bitthebyte.medium.com/javascript-for-bug-bounty-hunters-part-3-3b987f24ab27" %}
+
 {% embed url="https://www.youtube.com/watch?v=WnUGRaaDHGw" %}
 
 {% embed url="https://www.youtube.com/watch?v=FpX_4CSDzSM" %}
