@@ -12,10 +12,6 @@ While reading All these methodologies I made notion page for each Article/Video 
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Here is my personal notes I made by reading all these methodology
-
-{% embed url="https://drive.google.com/file/d/1qeD-_w2-4_C_yf0n1YcIWrze9RWLUMYc/view" %}
-
 ## Content of table
 
 | Platform                                        | Number of Methodologies |

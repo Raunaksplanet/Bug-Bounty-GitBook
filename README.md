@@ -17,7 +17,7 @@ coverY: 46.336
 
 ### Fell Free To Reach Me:
 
-> [Twitter](https://x.com/OreoB1scuit)                    [GitHub](https://github.com/Raunaksplanet)                   [Medium](https://medium.com/@RaunakGupta1922)                    [LinkedIn](https://www.linkedin.com/in/raunak-gupta-772408255/)
+> [Twitter](https://x.com/OreoB1scuit)                    [GitHub](https://github.com/Raunaksplanet)                   [Medium](https://medium.com/@RaunakGupta1922)                    [LinkedIn](https://www.linkedin.com/in/raunak-gupta-772408255/)                    [Paid Training](https://www.udemy.com/user/ronak-gupta-41/)
 
 ***
 
@@ -37,14 +37,14 @@ coverY: 46.336
 [hackers-to-follow-on-social-media](mains/hackers-to-follow-on-social-media/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/QlU4NsnRucGU7kOLn78i" %}
+[Broken link](/broken/pages/QlU4NsnRucGU7kOLn78i)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/mPPW6JIenXbivDyYfcdO" %}
+[Broken link](/broken/pages/mPPW6JIenXbivDyYfcdO)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/VkZbmBSpIGCHIazJVUMr" %}
+[Broken link](/broken/pages/VkZbmBSpIGCHIazJVUMr)
 {% endcontent-ref %}
