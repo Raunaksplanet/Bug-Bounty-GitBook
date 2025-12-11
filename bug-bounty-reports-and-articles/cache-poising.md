@@ -36,7 +36,33 @@
 
 {% embed url="https://youst.in/posts/cache-poisoning-at-scale/" %}
 
+{% embed url="https://hackerone.com/reports/1698316" %}
+
+{% embed url="https://hackerone.com/reports/1271944" %}
+
+{% embed url="https://hackerone.com/reports/631589" %}
+
+{% embed url="https://hackerone.com/reports/1795197" %}
+
+{% embed url="https://hackerone.com/reports/1976449" %}
+
+{% embed url="https://hackerone.com/reports/1888351" %}
+
+{% embed url="https://hackerone.com/reports/1760213" %}
+
+{% embed url="https://hackerone.com/reports/1424094" %}
+
+{% embed url="https://hackerone.com/reports/1219038" %}
+
+{% embed url="https://hackerone.com/reports/996041" %}
+
+{% embed url="https://hackerone.com/reports/1346618" %}
+
+{% embed url="https://hackerone.com/reports/1096609" %}
+
 {% embed url="https://www.youtube.com/watch?v=j2RrmNxJZ5c&t=1162s" %}
+
+
 
 {% embed url="https://www.youtube.com/watch?v=ZOBwQmfrIOM" %}
 
