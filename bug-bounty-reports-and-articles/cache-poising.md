@@ -60,6 +60,14 @@
 
 {% embed url="https://hackerone.com/reports/1096609" %}
 
+{% embed url="https://github.com/PortSwigger/cache-killer" %}
+
+{% embed url="https://github.com/c0dejump/wcDetect" %}
+
+{% embed url="https://github.com/PortSwigger/web-cache-deception-scanner" %}
+
+{% embed url="https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner" %}
+
 {% embed url="https://www.youtube.com/watch?v=j2RrmNxJZ5c&t=1162s" %}
 
 {% embed url="https://www.youtube.com/watch?v=70yyOMFylUA&t=532s" %}
