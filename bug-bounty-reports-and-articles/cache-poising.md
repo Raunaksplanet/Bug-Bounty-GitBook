@@ -62,7 +62,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=j2RrmNxJZ5c&t=1162s" %}
 
-
+{% embed url="https://www.youtube.com/watch?v=70yyOMFylUA&t=532s" %}
 
 {% embed url="https://www.youtube.com/watch?v=ZOBwQmfrIOM" %}
 
