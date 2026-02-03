@@ -116,6 +116,7 @@
 * [4️ Forced Browsing](forced-browsing.md)
 * [5️ RCE](rce.md)
 * [6️ OSINT](osint.md)
+* [Prompt Injection](prompt-injection.md)
 
 ## Bug Bounty Platforms
 

@@ -6,6 +6,10 @@
 
 {% embed url="https://infosecwriteups.com/how-i-made-16-500-hacking-cdn-caching-servers-part-3-91f9d836e046" %}
 
+{% embed url="https://medium.com/@mohamed0xmuslim/3-easy-cash-via-cache-99d600565ac5" %}
+
+{% embed url="https://infosecwriteups.com/my-first-web-cache-poisoning-bug-af955c8d135b" %}
+
 {% embed url="https://bxmbn.medium.com/how-i-test-for-web-cache-vulnerabilities-tips-and-tricks-9b138da08ff9" %}
 
 {% embed url="https://medium.com/@0x_karim/web-cache-deception-on-private-program-ccce0a612d46" %}
