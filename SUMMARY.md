@@ -70,6 +70,10 @@
 * [🏠 Bug Bounty Programs with Thick Client Scope](bug-bounty-programs-with-thick-client-scope.md)
 * [💵 Paid Udemy Course](paid-udemy-course.md)
 
+## 🕹️ Learn Game Hacking
+
+* [🍎 Youtube Videos](learn-game-hacking/youtube-videos.md)
+
 ## Bug Bounty Reports & Articles
 
 * [0️⃣ Index](bug-bounty-reports-and-articles/index.md)
