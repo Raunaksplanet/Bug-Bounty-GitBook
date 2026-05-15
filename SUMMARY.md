@@ -65,6 +65,7 @@
 * [📚 Bug Bounty Writeups](bug-bounty-writeups.md)
 * [🐞 Thick Client Vulnerabilities](thick-client-vulnerabilities/README.md)
   * [DLL Hijacking Basics](thick-client-vulnerabilities/dll-hijacking-basics.md)
+* [Thick Client For MacBook Apps](thick-client-for-macbook-apps.md)
 * [🥼 Intentionally vulnerable labs](intentionally-vulnerable-labs.md)
 * [🛠️ Tools for Thick Client Pentesting](tools-for-thick-client-pentesting.md)
 * [🏠 Bug Bounty Programs with Thick Client Scope](bug-bounty-programs-with-thick-client-scope.md)
