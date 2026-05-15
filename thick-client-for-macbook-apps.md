@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Thick Client For MacBook Apps
+# 🍎 Thick Client For MacBook Apps
 
 {% embed url="https://www.cyberark.com/resources/threat-research-blog/a-deep-dive-into-penetration-testing-of-macos-applications-part-1" %}
 
