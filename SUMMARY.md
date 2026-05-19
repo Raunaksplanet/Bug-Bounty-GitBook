@@ -90,6 +90,7 @@
   * [🔴 SSRF](bug-bounty-reports-and-articles/request-forgery-csrf-and-ssrf/ssrf.md)
 * [6️⃣ Injections (HTML, XSS, etc)](bug-bounty-reports-and-articles/injections-html-xss-etc/README.md)
   * [🟡 XSS](bug-bounty-reports-and-articles/injections-html-xss-etc/xss.md)
+  * [🟤 Post Message XSS](bug-bounty-reports-and-articles/injections-html-xss-etc/post-message-xss.md)
   * [🟠 HTML Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/html-injection.md)
   * [⚫ SQL Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/sql-injection.md)
   * [🟣 CR/LF Injection](bug-bounty-reports-and-articles/injections-html-xss-etc/cr-lf-injection.md)
