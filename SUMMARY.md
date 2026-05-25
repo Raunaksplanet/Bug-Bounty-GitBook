@@ -28,48 +28,39 @@
 * [🔮 Build your own Bug Bounty Methodology](mains/build-your-own-bug-bounty-methodology.md)
 * [🎴 Bug Bounty Checklist](mains/bug-bounty-checklist.md)
 * [😼 JS Analysis for Bug Bounty](mains/js-analysis-for-bug-bounty.md)
-
-***
-
-* [🟧 Learn to Use Burp Suite](learn-to-use-burp-suite.md)
+* [🟧 Learn to Use Burp Suite](mains/learn-to-use-burp-suite.md)
 
 ## Learn Android Bug Bounty
 
 * [🎥 Video Tutorials](group-1/page-1.md)
-
-***
-
-* [❤️ YouTube Channels](youtube-channels.md)
-* [📰 Bug Bounty Reports](bug-bounty-reports.md)
-* [📚 Blogs & Writeups](blogs-and-writeups.md)
-* [🏹 GitHub Repository](github-repository.md)
-* [👨‍👨‍👧 Conference Talks](conference-talks.md)
-* [🖨️ Automated Scanners](automated-scanners.md)
-* [⚙️ Intentionally Vulnerable Apps](intentionally-vulnerable-apps.md)
-* [🎱 Learn Drozer For Android Pentesting](learn-drozer-for-android-pentesting.md)
-* [🪀 Learn Frida For Android Pentesting](learn-frida-for-android-pentesting.md)
-* [🏈 Bypassing Security Protections in APKs via Objection and Frida](bypassing-security-protections-in-apks-via-objection-and-frida.md)
-* [🪁 Security Tools For Android Pentesting](security-tools-for-android-pentesting.md)
-* [😼 PIDCAT for Android Bug Bounty Logging](pidcat-for-android-bug-bounty-logging.md)
-* [🎹 CLI Commands & Shortcuts](cli-commands-and-shortcuts.md)
-* [My Android Bug Bounty Lab Setup](my-android-bug-bounty-lab-setup.md)
+* [❤️ YouTube Channels](learn-android-bug-bounty/youtube-channels.md)
+* [📰 Bug Bounty Reports](learn-android-bug-bounty/bug-bounty-reports.md)
+* [📚 Blogs & Writeups](learn-android-bug-bounty/blogs-and-writeups.md)
+* [🏹 GitHub Repository](learn-android-bug-bounty/github-repository.md)
+* [👨‍👨‍👧 Conference Talks](learn-android-bug-bounty/conference-talks.md)
+* [🖨️ Automated Scanners](learn-android-bug-bounty/automated-scanners.md)
+* [⚙️ Intentionally Vulnerable Apps](learn-android-bug-bounty/intentionally-vulnerable-apps.md)
+* [🎱 Learn Drozer For Android Pentesting](learn-android-bug-bounty/learn-drozer-for-android-pentesting.md)
+* [🪀 Learn Frida For Android Pentesting](learn-android-bug-bounty/learn-frida-for-android-pentesting.md)
+* [🏈 Bypassing Security Protections in APKs via Objection and Frida](learn-android-bug-bounty/bypassing-security-protections-in-apks-via-objection-and-frida.md)
+* [🪁 Security Tools For Android Pentesting](learn-android-bug-bounty/security-tools-for-android-pentesting.md)
+* [😼 PIDCAT for Android Bug Bounty Logging](learn-android-bug-bounty/pidcat-for-android-bug-bounty-logging.md)
+* [🎹 CLI Commands & Shortcuts](learn-android-bug-bounty/cli-commands-and-shortcuts.md)
+* [My Android Bug Bounty Lab Setup](learn-android-bug-bounty/my-android-bug-bounty-lab-setup.md)
 
 ## Learn Thick Client Pentesting
 
 * [🟥 Introduction Videos](learn-thick-client-pentesting/introduction-videos.md)
-
-***
-
-* [📑 Introduction Articles](introduction-articles.md)
-* [✅ Pentesting Checklist](pentesting-checklist.md)
-* [📚 Bug Bounty Writeups](bug-bounty-writeups.md)
-* [🐞 Thick Client Vulnerabilities](thick-client-vulnerabilities/README.md)
-  * [DLL Hijacking Basics](thick-client-vulnerabilities/dll-hijacking-basics.md)
-* [🍎 Thick Client For MacBook Apps](thick-client-for-macbook-apps.md)
-* [🥼 Intentionally vulnerable labs](intentionally-vulnerable-labs.md)
-* [🛠️ Tools for Thick Client Pentesting](tools-for-thick-client-pentesting.md)
-* [🏠 Bug Bounty Programs with Thick Client Scope](bug-bounty-programs-with-thick-client-scope.md)
-* [💵 Paid Udemy Course](paid-udemy-course.md)
+* [📑 Introduction Articles](learn-thick-client-pentesting/introduction-articles.md)
+* [✅ Pentesting Checklist](learn-thick-client-pentesting/pentesting-checklist.md)
+* [📚 Bug Bounty Writeups](learn-thick-client-pentesting/bug-bounty-writeups.md)
+* [🐞 Thick Client Vulnerabilities](learn-thick-client-pentesting/thick-client-vulnerabilities/README.md)
+  * [DLL Hijacking Basics](learn-thick-client-pentesting/thick-client-vulnerabilities/dll-hijacking-basics.md)
+* [🍎 Thick Client For MacBook Apps](learn-thick-client-pentesting/thick-client-for-macbook-apps.md)
+* [🥼 Intentionally vulnerable labs](learn-thick-client-pentesting/intentionally-vulnerable-labs.md)
+* [🛠️ Tools for Thick Client Pentesting](learn-thick-client-pentesting/tools-for-thick-client-pentesting.md)
+* [🏠 Bug Bounty Programs with Thick Client Scope](learn-thick-client-pentesting/bug-bounty-programs-with-thick-client-scope.md)
+* [💵 Paid Udemy Course](learn-thick-client-pentesting/paid-udemy-course.md)
 
 ## 🕹️ Learn Game Hacking
 
@@ -116,13 +107,10 @@
 * [1️ Low Hanging Fruits](bug-bounty-reports-and-articles/low-hanging-fruits.md)
 * [2️ Cache Vulnerabilities](bug-bounty-reports-and-articles/cache-poising.md)
 * [3️ DOS/DDOS](bug-bounty-reports-and-articles/dos-ddos.md)
-
-***
-
-* [4️ Forced Browsing](forced-browsing.md)
-* [5️ RCE](rce.md)
-* [6️ OSINT](osint.md)
-* [Prompt Injection](prompt-injection.md)
+* [4️ Forced Browsing](bug-bounty-reports-and-articles/forced-browsing.md)
+* [5️ RCE](bug-bounty-reports-and-articles/rce.md)
+* [6️ OSINT](bug-bounty-reports-and-articles/osint.md)
+* [Prompt Injection](bug-bounty-reports-and-articles/prompt-injection.md)
 
 ## Bug Bounty Platforms
 

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 😼 JS Analysis for Bug Bounty
 
 {% embed url="https://bytebloggerbase.com/main/66712d92f41aa70380676f5e" %}
