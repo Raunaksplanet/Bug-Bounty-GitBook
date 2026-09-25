@@ -51,6 +51,17 @@
 ## Learn IOT Pentesting/Bug Bounty
 
 * [Basic Terminologies](learn-iot-pentesting-bug-bounty/basic-terminologies.md)
+* [IoT Pentesting Tools](learn-iot-pentesting-bug-bounty/iot-pentesting-tools.md)
+* [General Guide Videos](learn-iot-pentesting-bug-bounty/general-guide-videos.md)
+* [IoT Pentesting YouTube Channels](learn-iot-pentesting-bug-bounty/iot-pentesting-youtube-channels.md)
+* [Blogs For IoT Security](learn-iot-pentesting-bug-bounty/blogs-for-iot-security.md)
+* [IoT Security GitHub Repos](learn-iot-pentesting-bug-bounty/iot-security-github-repos.md)
+* [Recommended Books](learn-iot-pentesting-bug-bounty/recommended-books.md)
+* [Talks On IoT Security](learn-iot-pentesting-bug-bounty/talks-on-iot-security.md)
+* [Podcasts On IoT Hacking](learn-iot-pentesting-bug-bounty/podcasts-on-iot-hacking.md)
+* [Live IoT Pentesting](learn-iot-pentesting-bug-bounty/live-iot-pentesting.md)
+* [Online IoT Community](learn-iot-pentesting-bug-bounty/online-iot-community.md)
+* [Certification For IoT Pentesting](learn-iot-pentesting-bug-bounty/certification-for-iot-pentesting.md)
 
 ## Learn Thick Client Pentesting
 
