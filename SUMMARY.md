@@ -47,9 +47,10 @@
 * [😼 PIDCAT for Android Bug Bounty Logging](learn-android-bug-bounty/pidcat-for-android-bug-bounty-logging.md)
 * [🎹 CLI Commands & Shortcuts](learn-android-bug-bounty/cli-commands-and-shortcuts.md)
 * [My Android Bug Bounty Lab Setup](learn-android-bug-bounty/my-android-bug-bounty-lab-setup.md)
-* [Basic Terminologies](learn-android-bug-bounty/basic-terminologies.md)
 
 ## Learn IOT Pentesting/Bug Bounty
+
+* [Basic Terminologies](learn-iot-pentesting-bug-bounty/basic-terminologies.md)
 
 ## Learn Thick Client Pentesting
 

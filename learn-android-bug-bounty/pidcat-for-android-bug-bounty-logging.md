@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 😼 PIDCAT for Android Bug Bounty Logging
 
 A focused `logcat` wrapper for Android security researchers and bug bounty hunters — helps filter logs from a specific app instead of the entire device, making vulnerability analysis faster and cleaner.

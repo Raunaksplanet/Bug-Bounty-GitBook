@@ -5,6 +5,30 @@ description: >-
   Bounty, Ethical Hacking, Android Pentesting.
 cover: .gitbook/assets/Eternal Warriors WP 04.jpg
 coverY: 46.336
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # 👋 Introduction to Biscuit's Bug Bounty Playbook
@@ -37,14 +61,14 @@ coverY: 46.336
 [hackers-to-follow-on-social-media](mains/hackers-to-follow-on-social-media/)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/QlU4NsnRucGU7kOLn78i" %}
-[Broken link](/broken/pages/QlU4NsnRucGU7kOLn78i)
+{% content-ref url="https://app.gitbook.com/s/x5ELyXksPQAu9xsTpTXg/bug-bounty-reports-and-articles" %}
+[Bug Bounty Reports & Articles](https://app.gitbook.com/s/x5ELyXksPQAu9xsTpTXg/bug-bounty-reports-and-articles)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/mPPW6JIenXbivDyYfcdO" %}
-[Broken link](/broken/pages/mPPW6JIenXbivDyYfcdO)
+{% content-ref url="https://app.gitbook.com/s/x5ELyXksPQAu9xsTpTXg/bug-bounty-platforms" %}
+[Bug Bounty Platforms](https://app.gitbook.com/s/x5ELyXksPQAu9xsTpTXg/bug-bounty-platforms)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/VkZbmBSpIGCHIazJVUMr" %}
-[Broken link](/broken/pages/VkZbmBSpIGCHIazJVUMr)
+{% content-ref url="https://app.gitbook.com/s/x5ELyXksPQAu9xsTpTXg/exploiting-technologies" %}
+[Exploiting Technologies](https://app.gitbook.com/s/x5ELyXksPQAu9xsTpTXg/exploiting-technologies)
 {% endcontent-ref %}

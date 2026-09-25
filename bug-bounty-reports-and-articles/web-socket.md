@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 8️⃣ Web Socket
 
 **WebSocket Vulnerabilities**: WebSocket is a communication protocol that enables full-duplex communication between a client and a server over a single, long-lived connection. While it enhances real-time communication capabilities, it also introduces several security concerns.
