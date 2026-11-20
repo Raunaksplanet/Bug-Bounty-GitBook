@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Introduction to Biscuit's Bug Bounty Playbook](README.md)
+* [👋 Welcome to Biscuit Security](README.md)
 
 ## Mains
 
