@@ -48,6 +48,23 @@
 * [🎹 CLI Commands & Shortcuts](learn-android-bug-bounty/cli-commands-and-shortcuts.md)
 * [My Android Bug Bounty Lab Setup](learn-android-bug-bounty/my-android-bug-bounty-lab-setup.md)
 
+## Learn iOS Bug Bounty
+
+* [🍎 iOS Bug Bounty Resources](learn-ios-bug-bounty/README.md)
+* [👀 People to Follow](learn-ios-bug-bounty/people-to-follow.md)
+* [📺 YouTube Channels](learn-ios-bug-bounty/youtube-channels.md)
+* [🎤 Conference Talks](learn-ios-bug-bounty/conference-talks.md)
+* [🧪 My iOS Bug Bounty Lab Setup](learn-ios-bug-bounty/my-ios-bug-bounty-lab-setup.md)
+* [🔐 SSL Pinning and Traffic Interception](learn-ios-bug-bounty/ssl-pinning-and-traffic-interception.md)
+* [🪀 Learn Frida for iOS Pentesting](learn-ios-bug-bounty/learn-frida-for-ios-pentesting.md)
+* [🔬 Static Analysis and Reverse Engineering](learn-ios-bug-bounty/static-analysis-and-reverse-engineering.md)
+* [🛡️ Jailbreak Detection and Bypasses](learn-ios-bug-bounty/jailbreak-detection-and-bypasses.md)
+* [📰 Bug Bounty Writeups](learn-ios-bug-bounty/bug-bounty-writeups.md)
+* [⚙️ Intentionally Vulnerable Apps](learn-ios-bug-bounty/intentionally-vulnerable-apps.md)
+* [🛠️ Security Tools for iOS Pentesting](learn-ios-bug-bounty/security-tools-for-ios-pentesting.md)
+* [🎓 Certifications](learn-ios-bug-bounty/certifications.md)
+* [📖 Reference](learn-ios-bug-bounty/reference.md)
+
 ## Learn IOT Pentesting/Bug Bounty
 
 * [Basic Terminologies](learn-iot-pentesting-bug-bounty/basic-terminologies.md)
