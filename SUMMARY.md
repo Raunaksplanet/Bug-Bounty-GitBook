@@ -144,13 +144,6 @@
 * [6️ OSINT](bug-bounty-reports-and-articles/osint.md)
 * [Prompt Injection](bug-bounty-reports-and-articles/prompt-injection.md)
 
-## Bug Bounty Platforms
-
-* [🐛 BugCrowd](bug-bounty-platforms/bugcrowd.md)
-* [🐞 HackerOne](bug-bounty-platforms/hackerone.md)
-* [🐝 Intigriti](bug-bounty-platforms/intigriti.md)
-* [🐜 Open Bug Bounty](bug-bounty-platforms/open-bug-bounty.md)
-
 ## Exploiting Technologies
 
 * [0️⃣ Introduction](exploiting-technologies/introduction.md)
