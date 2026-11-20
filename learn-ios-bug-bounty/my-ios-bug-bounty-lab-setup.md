@@ -38,6 +38,7 @@ I keep this page for the setup steps I forget between devices. Nothing fancy her
 
 ## Lab guides
 
+- [Getting started with the basics of iOS penetration testing](https://payatu.ai/blog/getting-started-with-the-basics-of-ios-penetration-testing): iOS architecture, IPA structure and jailbreak types before you start testing.
 - [Beginner guide to iOS pentesting with Corellium](https://infosecwriteups.com/step-by-step-complete-beginners-guide-of-ios-penetration-testing-with-corellium-2b9e9c6382c2): for when you do not have a jailbroken device.
 - [iOS pentesting lab setup](https://medium.com/offensive-black-hat-hacking-security/ios-pentesting-lab-setup-516ec567b424): covers the tools and device setup.
 - [Step by step iOS penetration testing guide](https://infosecwriteups.com/step-by-step-complete-beginners-guide-of-ios-penetration-testing-17092c0e0dc7): end to end beginner guide.
